@@ -50,12 +50,15 @@ Used Javascript, html, 3rd party apis and css to build this code quiz applicatio
 The page was styled so that it could fit in multiple device size (phone, tablet, laptop/desktop) 
 
 
-## Link to application: 
+## Link to application: https://dalpenny.github.io/workdayscheduler/
    
    
-## Link to github: 
+## Link to github: https://github.com/DalPenny/workdayscheduler
    
 
 ## Links to screenshots of deployed application
 ￼￼
    
+https://github.com/DalPenny/workdayscheduler/blob/main/assets/images/ws1.jpg
+
+https://github.com/DalPenny/workdayscheduler/blob/main/assets/images/ws2.jpg

@@ -23,22 +23,6 @@ $(document).ready(function () {
             var currTime = parseInt($(this).attr("id").split
             ("BlkHour")[1]);
 
-            // Check current time and show past/present/future in different colors
-            // if (currTime < clockTime) {
-            //     $(this).addClass("past");
-            //     $(this).removeClass("present");
-            //     $(this).removeClass("future");
-            // }
-            // else if (currTime === clockTime) {
-            //     $(this).removeClass("past");
-            //     $(this).removeClass("future");
-            //     $(this).addClass("present");
-            // }
-            // else {
-            //     $(this).removeClass("present");
-            //     $(this).removeClass("past");
-            //     $(this).addClass("future");
-
             $(this).removeClass("past");
             $(this).removeClass("present");
             $(this).removeClass("future");
